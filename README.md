@@ -26,17 +26,3 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 - Code: [MIT](./LICENSE) © [Melangebox](https://melangebox.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-<!-- start: readme-repos-list -->
-<!-- This list is auto-generated using koj-co/readme-repos-list -->
-<!-- Do not edit this list manually, your changes will be overwritten -->
-[![upptime/.github](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F72692977%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://upptime.js.org)
-[![koj-co/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F65495851%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://status.koj.co)
-[![baealex/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F35596687%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://status.blex.me)
-[![OswaldLabsOpenSource/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F21421587%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://status.oswaldlabs.com)
-[![Cleverclip/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F60980904%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://cleverclip.github.io/status/)
-[![bagiduid/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F72654797%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://status.bagidu.id)
-[![chowdhary-org/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F68894094%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://chowdhary-org.github.io/status/)
-[![AnandChowdhary/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F2841780%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://anandchowdhary.github.io/status/)
-[![stethoscope-js/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F71249357%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://stethoscope-js.github.io/status/)
-[![eartharoid/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F20905071%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://status.eartharoid.me)
-<!-- end: readme-repos-list -->undefined
