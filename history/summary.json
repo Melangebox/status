@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/melangebox.com",
     "slug": "melangebox",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 527,
-    "timeDay": 2258,
-    "timeWeek": 606,
-    "timeMonth": 617,
-    "timeYear": 527,
+    "uptimeYear": "100.00%",
+    "time": 526,
+    "timeDay": 435,
+    "timeWeek": 611,
+    "timeMonth": 620,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2020-11-19": 9
     }
