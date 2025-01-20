@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/melangebox.com.ico",
     "slug": "melangebox",
     "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.28%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "95.07%",
-    "time": 552,
-    "timeDay": 383,
-    "timeWeek": 585,
-    "timeMonth": 781,
-    "timeYear": 583,
+    "uptime": "98.73%",
+    "uptimeDay": "68.30%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "94.99%",
+    "time": 551,
+    "timeDay": 381,
+    "timeWeek": 592,
+    "timeMonth": 772,
+    "timeYear": 584,
     "dailyMinutesDown": {
-      "2025-01-19": 0,
+      "2025-01-20": 86,
+      "2025-01-19": 370,
       "2025-01-18": 205,
       "2025-01-16": 69,
       "2025-01-07": 16,
@@ -67,8 +68,7 @@
       "2024-02-13": 18,
       "2024-01-28": 25,
       "2024-01-25": 251,
-      "2024-01-24": 379,
-      "2024-01-21": 48
+      "2024-01-24": 379
     }
   }
 ]
