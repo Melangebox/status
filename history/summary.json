@@ -6,15 +6,15 @@
     "slug": "melangebox",
     "status": "up",
     "uptime": "98.21%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "60.48%",
     "uptimeWeek": "29.17%",
     "uptimeMonth": "83.45%",
     "uptimeYear": "93.55%",
-    "time": 605,
-    "timeDay": 920,
-    "timeWeek": 583,
-    "timeMonth": 606,
-    "timeYear": 636,
+    "time": 607,
+    "timeDay": 1351,
+    "timeWeek": 605,
+    "timeMonth": 635,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2025-05-05": 677,
       "2025-05-04": 1440,
@@ -54,8 +54,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 447,
       "2024-05-20": 20,
-      "2024-05-08": 75,
-      "2024-05-06": 24
+      "2024-05-08": 75
     }
   }
 ]
